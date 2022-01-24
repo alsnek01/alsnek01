@@ -1,8 +1,8 @@
 ### Minwoo Kim
 <p>
 Hello! Now I am a mobile game developer.<br/>
-Previously, I was on the PC Online Live Team.<br/><br/>
-As always, I love game development.🌱
+Previously, I was in the live service team for the PC online game.<br/><br/>
+I love games. so, I make games.🌱
 </p>
 
 <p>
